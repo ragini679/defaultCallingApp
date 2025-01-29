@@ -1,5 +1,6 @@
 # defaultCallingApp
 ![Screenshot 2025-01-30 012314](https://github.com/user-attachments/assets/831f4c5b-09b5-4b13-a951-11a1ec11b314)
+
 Brief Description:
 This is an Android app designed to set a default calling app for making and receiving phone calls. It allows users to manage their contacts and make calls directly from the app. The app aims to provide a smooth and simple user interface for handling calling functionality on Android devices.
 
