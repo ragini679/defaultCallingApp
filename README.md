@@ -13,8 +13,8 @@ Select the Default Calling App from the list, which will set this app as the def
 Start Using: You can now start using the app as your default calling app.
 
 Key Features Implemented:
-User Interface
-Calling Functionality
-Set as Default Calling App
-Contact Information Display
-Expandable Contact List
+User Interface,
+Calling Functionality,
+Set as Default Calling App,
+Contact Information Display,
+Expandable Contact List.
